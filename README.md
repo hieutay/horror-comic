@@ -1,2 +1,2 @@
 # horror-comic
-Một tác phẩm từ thatspookycomic
+Một tác phẩm từ Nick-Gottschlich
